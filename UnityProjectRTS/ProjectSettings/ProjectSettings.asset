@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: b2f175747ccff8e4fbfdd32707f26f68
+  productGUID: cf590a28450a96347b32153a63913111
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -650,8 +650,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: b7c45a6c-a2f4-4de9-b0c4-1676da7ddcfb
-  projectName: UnityProjectRTS
+  cloudProjectId: 08226f41-abc7-4523-85c8-0147c42e7131
+  projectName: UnityProjectRTS (1)
   organizationId: bojibenji
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
